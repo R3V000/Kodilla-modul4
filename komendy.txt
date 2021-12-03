@@ -4,3 +4,6 @@
     Lorem ipsum
   </div>
 </p>
+
+
+html-validate komendy.txt
